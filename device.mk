@@ -19,7 +19,8 @@ PRODUCT_PACKAGES += \
     redwoodGLSettingsProviderOverlay \
     redwoodGLWifiOverlay \
     redwoodINSettingsProviderOverlay \
-    redwoodINWifiOverlay
+    redwoodINWifiOverlay \
+    redwoodNfcOverlay
 
 # Soong namespaces
 PRODUCT_SOONG_NAMESPACES += \
